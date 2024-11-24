@@ -28,6 +28,8 @@ def add_entry():
     entry_type = input().lower()
 
     if entry_type not in ['income', 'expense']:
+
+
         print("Invalid entry type. Try again.")
         return
 

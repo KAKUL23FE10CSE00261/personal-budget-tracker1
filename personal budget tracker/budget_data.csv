@@ -1,2 +1,8 @@
 date,category,amount,type
 2024-11-19 12:09:03,food,100.0,expense
+2024-11-20 09:27:25,food,9000.0,income
+2024-11-20 09:50:29,food,3000.0,income
+2024-11-24 16:20:51,food,78.0,expense
+2024-11-24 16:21:40,food,899.0,expense
+2024-11-24 16:22:26,entertainment,10000.0,expense
+2024-11-24 16:25:09,food,877.0,expense
